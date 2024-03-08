@@ -1,0 +1,14 @@
+pytorch-lightning
+scipy
+numpy
+tqdm
+pytorch-fid
+pandas
+lpips
+lmdb
+ftfy
+regex
+opencv-python
+jupyterlab
+matplotlib
+dlib
